@@ -12,6 +12,6 @@
   "author": "vizsatiz",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.1"
+    "@openzeppelin/contracts": "^4.6.0"
   }
 }
